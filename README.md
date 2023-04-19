@@ -1,6 +1,8 @@
 # Projeto de Banco de Dados
 ## Professor
-Robson Fidalgo
+| Nome Completo | Email |
+| --- | --- |
+|Robson Fidalgo | rdnf@cin.ufpe.br |
 
 ## Equipe
 | Nome Completo | Email |
@@ -10,6 +12,3 @@ Robson Fidalgo
 | Victor Silva Marques de Oliveira | vsmo@cin.ufpe.br |
 | Vitória Pinheiro da Silva | vps3@cin.ufpe.br |
 | Wytoria Rodrigues Faustino | wrf@cin.ufpe.br |
-
-
-
