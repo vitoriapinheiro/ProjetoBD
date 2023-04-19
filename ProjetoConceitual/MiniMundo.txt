@@ -1,12 +1,12 @@
 Atores: Os atores são a base da agência de talentos, e cada um tem um registro no banco de dados que inclui informações como nome, data de nascimento e CPF. Além disso é possível visualizar quais produções audiovisuais o ator realizou e quais prêmios ele ganhou. 
 
-Produtores: Os produtores são responsáveis por contratar atores e adicioná-los no banco de dados da agência. Cada produtor tem um registro no banco de dados, que inclui nome, CPF e email. Entre os produtores, existem os produtores chefes e os subordinados.
+Produtores: Os produtores são responsáveis por contratar atores e adicioná-los no banco de dados da agência. Cada produtor tem um registro no banco de dados, que inclui nome, telefone e email. Entre os produtores, existem os produtores chefes e os contratados.
 
 Produções audiovisuais: Cada produção audiovisual produzida pela agência de talentos tem um nome, código e avaliação. Elas podem ser filmes ou séries, se for um filme existe a informação da sua bilheteria e se for uma série existe a informação da quantidade de temporadas.
 
 Premio: Cada ator pode receber um prêmio para cada atuação cadastrada no banco. É possível cadastrar diversos tipos de prêmios, basta adicionar apenas o seu nome, código e a instituição responsável por ele.
 
-Equipamento: Cada produção audiovisual pode alugar diversos equipamentos a fim de trazer sempre a melhor qualidade possível para a obra final.
+Equipamento: Cada produção audiovisual pode alugar diversos equipamentos a fim de trazer sempre a melhor qualidade possível para a obra final. É possível cadastrar diversos tipos de equipamentos, com diferentes códigos e custos.
 
 Estúdio: Além disso, uma produção audiovisual pode ter um estúdio responsável por ela. Para que eles sejam adicionados no banco de dados basta apenas informar seu código, nome, e endereço.
 
