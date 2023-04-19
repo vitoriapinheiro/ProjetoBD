@@ -1,4 +1,6 @@
-# ProjetoBD
+# Projeto de Banco de Dados
+## Professor
+Robson Fidalgo
 
 ## Equipe
 | Nome Completo | Email |
