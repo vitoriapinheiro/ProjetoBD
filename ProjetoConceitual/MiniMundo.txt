@@ -1,13 +1,13 @@
-Atores: Os atores são a base da agência de talentos, e cada um tem um registro no banco de dados que inclui informações como nome, data de nascimento e CPF. 
+Atores: Os atores são a base da agência de talentos, e cada um tem um registro no banco de dados que inclui informações como nome, data de nascimento e CPF. Além disso é possível visualizar quais produções audiovisuais o ator realizou e quais prêmios ele ganhou. 
 
-Produtores: Os produtores são responsáveis por cadastrar atores no banco de dados da agência e por criar o contrato com a distribuidora de cada produção audiovisual. Cada produtor tem um registro no banco de dados, que inclui nome, CPF e email. Entre os produtores, um deles fica encarregado de chefiar os demais.
+Produtores: Os produtores são responsáveis por contratar atores e adicioná-los no banco de dados da agência. Cada produtor tem um registro no banco de dados, que inclui nome, CPF e email. Entre os produtores, existem os produtores chefes e os subordinados.
 
-Produções audiovisuais: Cada produção audiovisual produzida pela agência de talentos tem um nome, gêneros, roteiristas, código e avaliação. Elas podem ser filmes ou séries, se for um filme existe a informação de quantidade de oscars e se for uma série existe a informação da quantidade de temporadas.
+Produções audiovisuais: Cada produção audiovisual produzida pela agência de talentos tem um nome, código e avaliação. Elas podem ser filmes ou séries, se for um filme existe a informação da sua bilheteria e se for uma série existe a informação da quantidade de temporadas.
 
-Distribuidoras: As distribuidoras são empresas que se encarregam de promover e comercializar as produções audiovisuais produzidas pela agência de talentos. Uma distribuidora pode ter contrato com diversas produções e são registradas no banco de dados com CNPJ e nome.
+Premio: Cada ator pode receber um prêmio para cada atuação cadastrada no banco. É possível cadastrar diversos tipos de prêmios, basta adicionar apenas o seu nome, código e a instituição responsável por ele.
 
-Roteiristas: Os roteiristas são responsáveis por criar os roteiros de filmes e séries. Cada roteirista tem um registro no banco de dados, que inclui informações como nome, CPF, gênero que escreve e produções audiovisuais
+Equipamento: Cada produção audiovisual pode alugar diversos equipamentos a fim de trazer sempre a melhor qualidade possível para a obra final.
 
-Gêneros: Os gêneros são as categorias em que os filmes e séries podem ser classificados, como ação, aventura, drama, comédia, terror, ficção científica, entre outros. Cada gênero tem um código, um nome, roteiristas e filmes
+Estúdio: Além disso, uma produção audiovisual pode ter um estúdio responsável por ela. Para que eles sejam adicionados no banco de dados basta apenas informar seu código, nome, e endereço.
 
-Com essas informações a agência/produtora pode gerenciar informações importantes sobre seus atores, produtores, distribuidoras, roteiristas, gêneros e produções audiovisuais
+Com essas informações a agência/produtora pode gerenciar informações importantes sobre seus atores, produções audiovisuais, contratos, aluguel de equipamentos e estúdios responsáveis.
